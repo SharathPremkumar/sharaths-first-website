@@ -1,0 +1,78 @@
+.bg-1 {
+  background-image: url("images/background-image.png");
+  background-size: cover;
+  height: 480px;
+  padding-top: 80px;
+}
+
+.bg-2 {
+  border-radius: 50%;
+  border: 10px solid rgb(242, 255, 0);
+  height: 150px;
+}
+
+.s01 {
+  font-size: 100px;
+  color: white;
+  margin: 10px;
+}
+
+.s02 {
+  font-size: 30px;
+  color: white;
+}
+
+.s03 {
+  font-size: 20px;
+  color: #1f9afe;
+}
+
+p,
+h1,
+div {
+  text-align: center;
+}
+
+.img-01 {
+  float: left;
+  width: 30%;
+}
+
+.para {
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 0px;
+}
+
+.head {
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 0px;
+}
+
+.img-div {
+    height: 600px;
+  margin: 100px;
+  float: left;
+}
+
+.div {
+    height: 600px;
+  margin: 100px;
+}
+
+.foot{
+    height: auto;
+    background-color: #F7C201;
+    
+}
+
+.mail{
+    line-height: 2.0; font-size:20px; text-align: left;
+}
+
+.foot-head{
+    color:white; padding:40px; margin:0; text-align:center;
+    border: 50px;
+}
